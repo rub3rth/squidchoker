@@ -19,7 +19,7 @@ enjoy
 
 
 usage:
-python3 squidchoker.py <proxy username> <proxy password> <proxy domain> <proxy port> <domain to be scanned> <port on which to begin scanning>
+python3 squidchoker.py [proxy username] [proxy password] [proxy domain] [proxy port] [domain to be scanned] [port on which to begin scanning]
 
 example:
 python3 squidchoker.py admin password domain.com 3128 domain.com 1337
