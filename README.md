@@ -12,6 +12,7 @@
 simple script to find which ports serve web content on a web site through an authenticated http proxy such as squid http proxy
 can probably be done with a regular port scanner (such as nmap) through a proxy, but this helped us on a ctf
 during which we couldn't
+
 in order to divert attention away from  my shoddy programming I spruced it up with an ascii art banner and some colours and put it here
 enjoy
 
