@@ -2,12 +2,12 @@
       _________ ___  __(_)___/ /     
      / ___/ __ `/ / / / / __  /      
     (__  ) /_/ / /_/ / / /_/ /       
-   /____/\__, /\__,_/_/\__,_/        
-           / /         __            
-     _____/ /_  ____  / /_____  _____
-    / ___/ __ \/ __ \/ //_/ _ \/ ___/
-   / /__/ / / / /_/ / ,< /  __/ /    
-   \___/_/ /_/\____/_/|_|\___/_/  
+    /____/\__, /\__,_/_/\__,_/        
+            / /         __            
+      _____/ /_  ____  / /_____  _____
+     / ___/ __ \/ __ \/ //_/ _ \/ ___/
+    / /__/ / / / /_/ / ,< /  __/ /    
+    \___/_/ /_/\____/_/|_|\___/_/  
 
 simple script to find which ports serve web content on a web site through an authenticated http proxy such as squid http proxy
 can probably be done with a regular port scanner (such as nmap) through a proxy, but this helped us on a ctf
