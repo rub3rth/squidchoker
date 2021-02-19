@@ -16,7 +16,6 @@ during which we couldn't so I thought I'd share<br>
 in order to divert attention away from  my shoddy programming I spruced it up with an ascii art banner and some colours<br>
 <br>
 enjoy<br>
-<br>
 ## installation
 clone the repo and install dependencies<br>
 ```git clone https://github.com/rub3rth/squidchoker```<br>
