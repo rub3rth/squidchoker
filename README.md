@@ -10,7 +10,7 @@
     \___/_/ /_/\____/_/|_|\___/_/  
 
 # squidchoker
-simple python script to find ports serving web content through an authenticated http proxy such as squid http proxy<br>
+simple python script to find ports serving web content through a http proxy (credentials required) such as squid http proxy<br>
 can probably be done with a regular port scanner (e g nmap with proxy chains), but this helped us out in a ctf<br>
 during which we couldn't so I thought I'd share<br>
 in order to divert attention away from  my shoddy programming I spruced it up with an ascii art banner and some colours<br>
