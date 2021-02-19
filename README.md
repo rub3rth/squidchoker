@@ -26,4 +26,4 @@ clone the repo and install dependencies<br>
 <br><br>
 ```python3 squidchoker.py admin password domain.com 3128 domain.com 1337```
 ## demo
-
+![Demo](https://i.imgur.com/06nYCD2.png)
